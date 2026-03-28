@@ -29,3 +29,27 @@
 [<img width="684" height="517" alt="image" src="https://github.com/user-attachments/assets/9609cb36-9ec4-4257-84ec-7fd9a500ac39" />]
 
 Рисунок 4 - Визуализация 3525 кадра видео
+
+## 3. Вычитание текущего кадра от фона
+
+[<img width="627" height="477" alt="image" src="https://github.com/user-attachments/assets/20b69d8a-9c4e-463a-879c-32e376b5e231" />]
+
+Рисунок 5 - Бинаризованное изображение
+
+## 4. Нахождение центра масс мышки
+
+## 5. Отрисовка точки
+[<img width="630" height="152" alt="image" src="https://github.com/user-attachments/assets/3891d898-455d-4188-af99-ea43d9514d2b" />]
+
+## 6. Модель фона и отслеживание движения мыши
+
+Изображение мыши и ее центра масс (черная точка): 
+
+[<img width="625" height="472" alt="image" src="https://github.com/user-attachments/assets/6b0b4917-e59b-4368-b675-efa3f53490c8" />]
+
+## 7. Построение траектории движения мыши 
+
+[<img width="684" height="503" alt="image" src="https://github.com/user-attachments/assets/27dbf764-0f9f-4d8b-880e-650bbb98a460" />]
+
+
+
